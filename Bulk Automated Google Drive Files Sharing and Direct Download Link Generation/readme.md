@@ -1,6 +1,6 @@
 This N8N workflow automates the process of sharing files from Google Drive. It includes OAuth2 authentication, batch processing, public link generation, and access status modification for efficient file handling. Suitable for users seeking to streamline their Google Drive file sharing process. sutiable for bulk actions, tested on 4.2K files folder working like charm.
 
-![xeL6OxvdLi.png](fileId:725)
+![xeL6OxvdLi.png](https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/xe_L6_Oxvd_Li_3bcd6f4c77.png)
 
 ### How It Works
 
