@@ -26,7 +26,7 @@ From time to time, I find myself wanting to share my paid subscriptions with fri
 4. **Wait Node:** Adjust the wait time according to your preference for how long the email content should be accessible via the HTML page.
 
 ## Screenshot
-![Workflow Screenshot](.email render\preview.png)
+![Workflow Screenshot](https://cdn.statically.io/gh/Automations-Project/n8n-templates/main/Email%20Notifications%20to%20Telegram%20using%20Temporary%20HTML%20Hosting%20via%20GitHub%20Gist/preview.png)
 
 ## Additional Notes
 - Ensure all credentials are securely stored and have the minimum necessary permissions for the workflow to function.
