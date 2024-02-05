@@ -1,11 +1,11 @@
 <svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <style>
     .leftdiv{ animation: fadeH 0.7s ease-in-out forwards;}
-    .text{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; fill: #000; font-size: 14px;}
+    .text{ font-family: 'Rubik', Tahoma, Geneva, Verdana, sans-serif; fill: #000; font-size: 14px;}
     .singleitem{ opacity: 0; animation: fade 0.3s ease-in-out forwards;}
-    .followers{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; fill: #000; font-size: 12px;}
+    .followers{ font-family: 'Rubik', Tahoma, Geneva, Verdana, sans-serif; fill: #000; font-size: 12px;}
     .namepl{ font-family: Arial, Helvetica, sans-serif; fill: #000; font-size: 17px; font-weight: 600; alignment-baseline: middle; text-anchor: middle;}
-    .icon{ fill: #FF0000; display: block;}
+    .icon{ fill: #ff6f5c; display: block;}
     @keyframes fade{ from{ opacity: .5;} to{ opacity: 1;}}
     @keyframes fadeH{ from{ opacity: 0; transform: translate(-90px, 10px);} to{ opacity: 1; transform: translate(10px, 10px);}}
 </style>
