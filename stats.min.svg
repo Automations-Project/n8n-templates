@@ -15,7 +15,7 @@
     @keyframes fade{ from{ opacity: .5;} to{ opacity: 1;}}
     @keyframes fadeH{ from{ opacity: 0; transform: translate(-90px, 10px);} to{ opacity: 1; transform: translate(10px, 10px);}}
 </style>
-<rect x="0.5" y="0.5" rx="4.5" height="99%" width="494" fill="#00000000" stroke="#f7abb1" stroke-opacity="1" />
+<rect x="0.5" y="0.5" rx="4.5" height="99%" width="494" fill="#00000000" stroke="#F7ABB1" stroke-opacity="1" />
 <g transform="translate(0, 25)">
     <g class="leftdiv">
         <defs>
