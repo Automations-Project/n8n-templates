@@ -7,15 +7,15 @@
 }
       ]]>
     .leftdiv{ animation: fadeH 0.7s ease-in-out forwards;}
-    .text{ font-family: 'Virgil 3 YOFF', Tahoma, Geneva, Verdana, sans-serif; fill: #F0F0F0; font-size: 14px;}
+    .text{ font-family: 'Virgil 3 YOFF', Tahoma, Geneva, Verdana, sans-serif; fill: #71747a; font-size: 14px;}
     .singleitem{ opacity: 0; animation: fade 0.3s ease-in-out forwards;}
-    .followers{ font-family: 'Virgil 3 YOFF', Tahoma, Geneva, Verdana, sans-serif; fill: #F0F0F0; font-size: 12px;}
-    .namepl{ font-family: 'Virgil 3 YOFF', Helvetica, sans-serif; fill: #F0F0F0; font-size: 17px; font-weight: 600; alignment-baseline: middle; text-anchor: middle;}
-    .icon{ fill: #ff6f5c; display: block;}
+    .followers{ font-family: 'Virgil 3 YOFF', Tahoma, Geneva, Verdana, sans-serif; fill: #71747a; font-size: 12px;}
+    .namepl{ font-family: 'Virgil 3 YOFF', Helvetica, sans-serif; fill: #71747a; font-size: 17px; font-weight: 600; alignment-baseline: middle; text-anchor: middle;}
+    .icon{ fill: #ea4b71; display: block;}
     @keyframes fade{ from{ opacity: .5;} to{ opacity: 1;}}
     @keyframes fadeH{ from{ opacity: 0; transform: translate(-90px, 10px);} to{ opacity: 1; transform: translate(10px, 10px);}}
 </style>
-<rect x="0.5" y="0.5" rx="4.5" height="99%" width="494" fill="#0000ff" stroke="#F7ABB1" stroke-opacity="1" />
+<rect x="0.5" y="0.5" rx="4.5" height="99%" width="494" fill="#fbfcfe" stroke="#F7ABB1" stroke-opacity="1" />
 <g transform="translate(0, 25)">
     <g class="leftdiv">
         <defs>
@@ -23,7 +23,7 @@
                 <image x="0%" y="0%" width="512" height="512" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABLElEQVR4nO3awQkCMRBAUVc8WYhXS7AO67EY67ANq7GDrB8J68J7VyErnzmEIcvjej7wnePWf2BPxArECsQKxArECsQKxArECk7zjr6/3oNfn7fLH548ZrICsQKxArECsQKxArECsQKxgok3+LHxLfw/maxArECsQKxArECsQKxArECsYLMb/Lwd/DwmKxArECsQKxArECsQKxArECtYvIP/nskKxArECsQKxArECsQKxArEClZ28L9su8db9j2ebLICsQKxArECsQKxArECsQKxArECsQKxArECsQKxArECsQKxArECsQKxArECsQKxArECsQKxArECsYKVVzRbvVeZ55fvmqxArECsQKxArECsQKxArECsQKxArECsQKxArECsQKxArECsQKzgA5W3G1WouMd+AAAAAElFTkSuQmCC"></image>
             </pattern>
         </defs>
-        <circle cx="86" cy="44" r="40" stroke="#0000ff" stroke-width="3" fill="url(#image)" />
+        <circle cx="86" cy="44" r="40" stroke="#fbfcfe" stroke-width="3" fill="url(#image)" />
         <text x="86" y="100" class="namepl">marketing</text>
         <svg x="25" y="111.8" class="icon" viewBox="0 0 16 16" version="1.1" width="14" height="14">
             <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z" />
