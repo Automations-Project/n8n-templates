@@ -1,5 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/Template%20Version-V0.05-pink)
-![Static Badge]( Github Public Repository Releases RSS To Telegram/idd6TtF-kc.png)
+![Static Badge](/ Github Public Repository Releases RSS To Telegram/idd6TtF-kc.png)
 #  Github Public Repository Releases RSS To Telegram
 
 \[![Screenshot of template Github Public Repository Releases RSS To Telegram]\(https://img.youtube.com/vi\_webp/IAlFNNILi4A/maxresdefault.webp)](https://youtu.be/IAlFNNILi4A)
