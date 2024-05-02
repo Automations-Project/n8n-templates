@@ -1,5 +1,8 @@
 ![Static Badge](https://img.shields.io/badge/Template%20Version-V0.05-pink)
-![Static Badge](https://github.com/Automations-Project/n8n-templates/blob/main/%20YouTube%20Channel%20Advanced%20RSS%20Feeds%20Generator/idf8yBeP5c.png)
+![Static Badge](https://github.com/Automations-Project/n8n-templates/blob/main/%20YouTube%20Channel%20Advanced%20RSS%20Feeds%20Generator/sidf8yBeP5c.png)
+
+
+
 #  YouTube Channel Advanced RSS Feeds Generator
 
 \[![Video Overview of template YouTube Channel Advanced RSS Feeds Generator]\(https://img.youtube.com/vi\_webp/EtzJmrmCiUY/maxresdefault.webp?s)](https://youtu.be/EtzJmrmCiUY)
