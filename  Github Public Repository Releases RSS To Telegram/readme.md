@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Template%20Version-V0.05-pink)
+![Static Badge](https://img.shields.io/badge/Template%20Version-V0.05-pink), ![Static Badge](https://img.shields.io/badge/RssFeedReadTrigger-#080808),![Static Badge](https://img.shields.io/badge/Markdown-#080808),![Static Badge](https://img.shields.io/badge/Code-#080808),![Static Badge](https://img.shields.io/badge/SplitInBatches-#080808),![Static Badge](https://img.shields.io/badge/HttpRequest-#080808),![Static Badge](https://img.shields.io/badge/NoOp-#080808)
 ![Static Badge](https://github.com/Automations-Project/n8n-templates/blob/main/%20Github%20Public%20Repository%20Releases%20RSS%20To%20Telegram/idd6TtF-kc.png)
 #  Github Public Repository Releases RSS To Telegram
 
